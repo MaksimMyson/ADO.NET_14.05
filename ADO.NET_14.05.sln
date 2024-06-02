@@ -5,9 +5,9 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO.NET_14.05", "ADO.NET_14.05\ADO.NET_14.05.csproj", "{08A21440-4970-48D2-B42B-9152129099DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballLeague.Data", "Data\FootballLeague.Data.csproj", "{780FAFF2-A5AD-4E84-93CA-FC9F756B568C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLibrary.Data", "Data\GameLibrary.Data.csproj", "{780FAFF2-A5AD-4E84-93CA-FC9F756B568C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballLeague.Models", "FootballLeague.Models\FootballLeague.Models.csproj", "{EDBB39DE-99DE-4174-878F-EE720EAEC74D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLibrary.Models", "FootballLeague.Models\GameLibrary.Models.csproj", "{EDBB39DE-99DE-4174-878F-EE720EAEC74D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
